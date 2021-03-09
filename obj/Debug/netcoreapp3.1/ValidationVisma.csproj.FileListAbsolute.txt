@@ -1,0 +1,13 @@
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\bin\Debug\netcoreapp3.1\ValidationVisma.exe
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\bin\Debug\netcoreapp3.1\ValidationVisma.deps.json
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\bin\Debug\netcoreapp3.1\ValidationVisma.runtimeconfig.json
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\bin\Debug\netcoreapp3.1\ValidationVisma.runtimeconfig.dev.json
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\bin\Debug\netcoreapp3.1\ValidationVisma.dll
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\bin\Debug\netcoreapp3.1\ValidationVisma.pdb
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\obj\Debug\netcoreapp3.1\ValidationVisma.csprojAssemblyReference.cache
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\obj\Debug\netcoreapp3.1\ValidationVisma.AssemblyInfoInputs.cache
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\obj\Debug\netcoreapp3.1\ValidationVisma.AssemblyInfo.cs
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\obj\Debug\netcoreapp3.1\ValidationVisma.csproj.CoreCompileInputs.cache
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\obj\Debug\netcoreapp3.1\ValidationVisma.dll
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\obj\Debug\netcoreapp3.1\ValidationVisma.pdb
+C:\Users\Ville\source\repos\ValidationVisma\ValidationVisma\obj\Debug\netcoreapp3.1\ValidationVisma.genruntimeconfig.cache
